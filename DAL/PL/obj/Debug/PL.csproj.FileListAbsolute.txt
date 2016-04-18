@@ -1,0 +1,34 @@
+C:\Facultate\Semestrul 2\DAL\PL\bin\Debug\PL.exe.config
+C:\Facultate\Semestrul 2\DAL\PL\bin\Debug\PL.exe
+C:\Facultate\Semestrul 2\DAL\PL\bin\Debug\PL.pdb
+C:\Facultate\Semestrul 2\DAL\PL\bin\Debug\BL.dll
+C:\Facultate\Semestrul 2\DAL\PL\bin\Debug\DAL.dll
+C:\Facultate\Semestrul 2\DAL\PL\bin\Debug\BL.pdb
+C:\Facultate\Semestrul 2\DAL\PL\bin\Debug\DAL.pdb
+C:\Facultate\Semestrul 2\DAL\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Facultate\Semestrul 2\DAL\PL\obj\Debug\PL.Form1.resources
+C:\Facultate\Semestrul 2\DAL\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Facultate\Semestrul 2\DAL\PL\obj\Debug\PL.csproj.GenerateResource.Cache
+C:\Facultate\Semestrul 2\DAL\PL\obj\Debug\PL.exe
+C:\Facultate\Semestrul 2\DAL\PL\obj\Debug\PL.pdb
+C:\Facultate\Semestrul 2\DAL\PL\bin\Debug\Models.dll
+C:\Facultate\Semestrul 2\DAL\PL\bin\Debug\Models.pdb
+C:\Facultate\Semestrul 2\DAL\PL\obj\Debug\PL.Admin.resources
+C:\Facultate\Semestrul 2\DAL\PL\obj\Debug\PL.User.resources
+C:\Facultate\Semestrul2\DAL\PL\bin\Debug\PL.exe.config
+C:\Facultate\Semestrul2\DAL\PL\obj\Debug\PL.exe
+C:\Facultate\Semestrul2\DAL\PL\obj\Debug\PL.pdb
+C:\Facultate\Semestrul2\DAL\PL\bin\Debug\PL.exe
+C:\Facultate\Semestrul2\DAL\PL\bin\Debug\PL.pdb
+C:\Facultate\Semestrul2\DAL\PL\bin\Debug\BL.dll
+C:\Facultate\Semestrul2\DAL\PL\bin\Debug\Models.dll
+C:\Facultate\Semestrul2\DAL\PL\bin\Debug\DAL.dll
+C:\Facultate\Semestrul2\DAL\PL\bin\Debug\BL.pdb
+C:\Facultate\Semestrul2\DAL\PL\bin\Debug\Models.pdb
+C:\Facultate\Semestrul2\DAL\PL\bin\Debug\DAL.pdb
+C:\Facultate\Semestrul2\DAL\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Facultate\Semestrul2\DAL\PL\obj\Debug\PL.Admin.resources
+C:\Facultate\Semestrul2\DAL\PL\obj\Debug\PL.Form1.resources
+C:\Facultate\Semestrul2\DAL\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Facultate\Semestrul2\DAL\PL\obj\Debug\PL.User.resources
+C:\Facultate\Semestrul2\DAL\PL\obj\Debug\PL.csproj.GenerateResource.Cache

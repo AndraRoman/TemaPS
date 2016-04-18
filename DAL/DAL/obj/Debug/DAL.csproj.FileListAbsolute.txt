@@ -1,0 +1,7 @@
+C:\Facultate\Semestrul 2\DAL\DAL\bin\Debug\DAL.dll
+C:\Facultate\Semestrul 2\DAL\DAL\bin\Debug\DAL.pdb
+C:\Facultate\Semestrul 2\DAL\DAL\bin\Debug\Models.dll
+C:\Facultate\Semestrul 2\DAL\DAL\bin\Debug\Models.pdb
+C:\Facultate\Semestrul 2\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Facultate\Semestrul 2\DAL\DAL\obj\Debug\DAL.dll
+C:\Facultate\Semestrul 2\DAL\DAL\obj\Debug\DAL.pdb
